@@ -1,0 +1,43 @@
+Girmiti Software’s Certification team has expertise in the certification of Payment solutions on EMV Kernel, HCE, Digital Issuance, Nexo Fast, Nexo Acquirer, Nexo Retail, Nexo TMS, Issuance, Payment Gateway, Processor, customer L2, L3 devices, readers which interface with payment host systems. Our team works closely with customers in getting the certifications done based on defined specifications given by the customers and their partners.
+We also work with product companies to build support through kernel platform to help them in getting certification for devices, readers and payment systems.
+Certification of HCE
+•	Certification with the Card Issuing systems
+•	Certifying with Digital Wallet Platform
+•	Certifying with Token Manager Platform
+Certification for Contact EMV Cards
+•	Level 2 questionnaire Filing (ICS for Master Card) on behalf of the customer
+•	Usage of Smart-Spy tool for log capturing, ADVT cards, MTIP and Inter-Op cards to analyse the test script behaviour with the application to be certified
+•	Analysis and testing of the EMV application for the various scenarios set and submission to the card association point of contact
+•	Execution of the questionnaire test cases
+•	Co-ordination with the development team for the feedback for the off-line-logs from Visa/MC and re-submission of the updates logs
+•	L3 with Payment Host and Schemes
+Certification for NFC / Contactless Cards
+•	Usage of Smart-Spy tool, Visa - qSDC, qVSDC cards, VpTT, MasterCard (PayPass), M-Chip cards to analyse the test script behaviour
+•	Execution of the questionnaire test cases
+•	Co-ordination with the development team for the feedback for the off-line-logs from Visa/MC and re-submission of the updates logs
+•	L3 App for tPOS and mPOS devices
+
+Contact & Contactless certification support
+Our team has expertise in using a spy tool with a subset of cards from VISA and MasterCard.
+
+Below are details of the kits and technologies that will be used for contact and contactless firmware and payment systems as part of the testing and certification process.
+Visa ADVT, MasterCard TIP - M-TIP & MasterCard TIP – InterOp
+•	The kit includes & supports, ADVT cards set along with a booklet containing test card script details to execute VISA requirement for EMV-Contact cards.
+•	Checking PG and POS compliance with MasterCard M/Chip program.
+•	Checking terminal interoperability to specific MasterCard cards.
+Visa CDET, VpTT, MasterCard TIP & MasterCard NIV
+•	Test cards for Visa acquirer device compliance testing (contactless).
+•	Test cards to validate compliance of PayPass M/Chip terminals with MasterCard PayPass TIP requirements.
+•	Test cards to validate compliance of Magstripe terminals with MasterCard PayPass Magstripe & PayPass Magstripe Debit.
+
+Certification of EMV Gateway
+The EMV Payment server application has to be certified with the EMV ready devices, readers or Mobile POS, so as to enable them to process EMV transactions. Based on the host and device specification, our team writes the test plan, test cases for the required transaction set, protocol, configuration, and administration and support tools. Executes the test cases and certifies the device for the gateway. Also, the Certification team helps our customers in the certification of the applications with the Processors, Banks, 3rd Party Certification Authorities and the Card Associations. Provides certification support for acquiring online transactions i.e. both e-commerce and m-commerce. Our team has expertise is testing and certifying the Nexo standards such as Nexo Acquirer, Nexo Fast, Nexo Retail, and Nexo TMS.
+Certification for Payment Processors
+Our team has the expertise and help Processors to offer EMV transactional support and to get them certified with 3rd Party Networks, VISA, MC or any other schemes that the customer has partnered with; based on the network.
+Certification for EMV Issuance
+We have expertise in implementing EMV card personalization solution for Issuance. The team understands the specifications and helps in certifying the product/solution for contact, contactless issuance with respect to mobile and other physical issuance instruments.
+To Know More About Us:
+Visit: https://www.girmiti.com/certification.html
+Mail Us: info@girmiti.com
+Payment Gateway Certification
+
