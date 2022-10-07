@@ -1,0 +1,41 @@
+Girmiti team has in-depth understanding, field experience in architecture, design, developing, testing, automating and supporting various facets of Nexo standards. We help our customers in developing the core platform, ensure compliance with Nexo specification standards, deploy and implement protocols for their partners along with customization, integration to third parties solutions and certifications.
+Our experience and expertise cover the following Nexo expected requirements:
+Nexo Fast
+EMV Compliant: Accept all payment cards which are compliant with EMV specifications.
+Protocol Independent: Work with various Acquirers, TMS, ECR or Retailer protocols.
+Multiple Acquirer: Designed as multi-acquirer payment application.
+Secure: Terminal data storage and access limited to the data required for specific task.
+Testing and Certification: writing test cases, follow test specifications, use the tools to test and certify Nexo Fast with Nexo body or recommended 3rd party certification and security companies.
+Nexo Acquirer
+Follow worldwide accepted Nexo-based standard APIs for acquiring.
+Non-proprietary common protocol
+Multiple-acquiring support and enforcement
+Transboundary compliance
+Arbiter Agent to Acquirer support
+Testing and Certification: writing test cases, follow test specifications, use the tools to test and certify the Nexo Acquirer with Nexo body or recommended 3rd party certification and security companies.
+Nexo Retail
+Establish a clear separation between two software applications which reside on a point of sale terminal.
+Records customer sale and payment application that handles the processing of a card transaction.
+Both applications share cash register peripherals such as printers, displays and card readers.
+Implements the protocol that allows a sale system to request a payment system to process the payment associated to the purchase of goods or services.
+Testing and Certification: writing test cases, following test specifications, using the tools to test and certify the Nexo Retail with Nexo body or recommended 3rd party certification and security companies.
+
+Nexo TMS
+Centralization -Ensure all the POI devices are connected to the Acquirer be supervised by TMS.
+Interoperability - POI follow the same application and protocol.
+Realtime Update - The Acquirer has real time information of each POI.
+Quick update processing - Monitor and validate all the versioning of the POI modules or applications at once.
+Interchangeability - Without having to bother much about the integration process, the Acquirer has the provision to change any POI with another.
+Interbankability – Making it easy to change an acquirer associated with the POIs.
+Upscalability - The connectivity of POI could be added/changed seamlessly.
+Connectivity – Allow the POI to be grouped based on Merchants, Stores, Region.
+Testing and Certification: writing test cases, following test specifications, using the tools to test and certify the Nexo TMS with Nexo body or recommended 3rd party certification and security companies.
+Girmiti has expertise in implementing solutions using ISO8583, ISO 20022, ISO 7816, ISO 14443, APACS 70, EPAS, NDC, D912, Nexo and proprietary message packets to interfaces front-end channels, mPOS, TMS,Acquirer gateways, Banks, Switches and processors.
+We bring relevant experience to help our customers and partners to have their existing Platforms comply by with Nexo specification and standards with respect to their business segments.
+Our team helps and works closely with our customers to understand the existing scope, current business scenarios, flows of the existing systems, to provide the consulting solutions to Build, Architect, Enhance Features, Design, Develop, Test, Automate, Deploy and UAT.
+Our technology team brings the expertise in solutions and professional services to work in new generation modular architecture, micro services, cloud enabled, APIs, secured mechanism, token-based authentication, internationalization, two way SSL, Certificates, Securing Sensitive Data, OWASP and Database Encryption.
+We bring deep knowledge and experience in Payment solutions support 24/7 driven by SLAs (for DevOps and SysOps functions), Maintaining and managing existing system for our customer and their partners.
+
+For More Info - https://www.girmiti.com/nexo_certification.html
+
+Nexo Standards, Nexo-based standard, Nexo specification standards,
